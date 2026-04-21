@@ -1,7 +1,10 @@
-﻿namespace FoodRescue_Backend.Models
+﻿
+using System.ComponentModel.DataAnnotations;
+namespace FoodRescue_Backend.Models
 {
     public class Claim
     {
+        [Key]
         public int ClaimId { get; set; }
         public int ListingId { get; set; }
         public int CharityId { get; set; }

@@ -2,7 +2,9 @@
 
 using FoodRescue_Backend.Data;
 using FoodRescue_Backend.Hubs;
+using FoodRescue_Backend.Models;
 using Microsoft.AspNetCore.SignalR;
+using Microsoft.EntityFrameworkCore;
 
 public class ClaimService : IClaimService
 {

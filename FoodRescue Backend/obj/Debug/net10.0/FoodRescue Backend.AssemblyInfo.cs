@@ -14,11 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("FoodRescue Backend")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-<<<<<<< HEAD
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+e0c25ff24c24112e1d7460ed895ea83548fabb45")]
-=======
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9230856c40d8c7d4018cde34b1320e8b0545a536")]
->>>>>>> origin/har
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a377c56168d428b12aa7de280aafb969eef5492d")]
 [assembly: System.Reflection.AssemblyProductAttribute("FoodRescue Backend")]
 [assembly: System.Reflection.AssemblyTitleAttribute("FoodRescue Backend")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

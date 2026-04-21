@@ -1,7 +1,9 @@
-﻿namespace FoodRescue_Backend.Models
+﻿using System.ComponentModel.DataAnnotations;
+namespace FoodRescue_Backend.Models
 {
     public class FoodListing
     {
+        [Key]
         public int ListingId { get; set; }
         public string FoodName { get; set; }
         public int Quantity { get; set; }

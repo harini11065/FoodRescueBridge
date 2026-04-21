@@ -3,44 +3,80 @@
   "WorkspaceRootPath": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\services\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:services\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\models\\foodlisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:models\\foodlisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\services\\ifoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:services\\ifoodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\services\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:services\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\foodrescue backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:foodrescue backend.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:controllers\\claimcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:controllers\\foodcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Migrations\\20260421062534_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260421062534_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\models\\foodlisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:models\\foodlisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:models\\claim.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:models\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\services\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:services\\iclaimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:services\\foodservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\services\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:services\\claimservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:hubs\\notificationhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:dtos\\logindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\dtos\\createfooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:dtos\\createfooddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\dtos\\claimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:dtos\\claimdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|c:\\users\\logadharshini\\desktop\\foodrescue\\foodrescuebridge\\foodrescue backend\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{68CF23A6-EA52-31E4-B73C-CDAC398C8F6F}|FoodRescue Backend.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -67,84 +103,153 @@
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "FoodService.cs",
-              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Services\\FoodService.cs",
-              "RelativeDocumentMoniker": "Services\\FoodService.cs",
-              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Services\\FoodService.cs",
-              "RelativeToolTip": "Services\\FoodService.cs",
-              "ViewState": "AgIAAA0AAAAAAAAAAAAzwBkAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T04:59:42.857Z",
+              "Title": "FoodRescue Backend",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\FoodRescue Backend.csproj",
+              "RelativeDocumentMoniker": "FoodRescue Backend.csproj",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\FoodRescue Backend.csproj",
+              "RelativeToolTip": "FoodRescue Backend.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-04-21T07:58:25.948Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ClaimService.cs",
-              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Services\\ClaimService.cs",
-              "RelativeDocumentMoniker": "Services\\ClaimService.cs",
-              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Services\\ClaimService.cs*",
-              "RelativeToolTip": "Services\\ClaimService.cs*",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAADAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T05:00:46.202Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "FoodListing.cs",
-              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Models\\FoodListing.cs",
-              "RelativeDocumentMoniker": "Models\\FoodListing.cs",
-              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Models\\FoodListing.cs",
-              "RelativeToolTip": "Models\\FoodListing.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T04:56:19.98Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Program.cs",
               "RelativeDocumentMoniker": "Program.cs",
               "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Program.cs",
               "RelativeToolTip": "Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACIAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2026-04-21T05:03:49.644Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "NotificationHub.cs",
-              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Hubs\\NotificationHub.cs",
-              "RelativeDocumentMoniker": "Hubs\\NotificationHub.cs",
-              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Hubs\\NotificationHub.cs",
-              "RelativeToolTip": "Hubs\\NotificationHub.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
+              "DocumentIndex": 1,
+              "Title": "IFoodService.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Services\\IFoodService.cs",
+              "RelativeDocumentMoniker": "Services\\IFoodService.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Services\\IFoodService.cs",
+              "RelativeToolTip": "Services\\IFoodService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAsAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T05:20:47.921Z",
+              "WhenOpened": "2026-04-21T04:57:16.184Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-04-21T05:59:56.45Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ClaimController.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Controllers\\ClaimController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ClaimController.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Controllers\\ClaimController.cs",
+              "RelativeToolTip": "Controllers\\ClaimController.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAQwCQAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:57:15.405Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 5,
-              "Title": "AppDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Data\\AppDbContext.cs",
-              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
-              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Data\\AppDbContext.cs",
-              "RelativeToolTip": "Data\\AppDbContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAFAAAAAAAAAA==",
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAiwEMAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T05:18:51.564Z",
+              "WhenOpened": "2026-04-21T05:58:22.439Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FoodController.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Controllers\\FoodController.cs",
+              "RelativeDocumentMoniker": "Controllers\\FoodController.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Controllers\\FoodController.cs",
+              "RelativeToolTip": "Controllers\\FoodController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAsAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:58:59.97Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "FoodListing.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Models\\FoodListing.cs",
+              "RelativeDocumentMoniker": "Models\\FoodListing.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Models\\FoodListing.cs",
+              "RelativeToolTip": "Models\\FoodListing.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:56:19.98Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Models\\User.cs",
+              "RelativeDocumentMoniker": "Models\\User.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Models\\User.cs",
+              "RelativeToolTip": "Models\\User.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:55:35.525Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "20260421062534_InitialCreate.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Migrations\\20260421062534_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260421062534_InitialCreate.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Migrations\\20260421062534_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260421062534_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T06:25:35.008Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Claim.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Models\\Claim.cs",
+              "RelativeDocumentMoniker": "Models\\Claim.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Models\\Claim.cs",
+              "RelativeToolTip": "Models\\Claim.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T04:56:48.947Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
               "Title": "IClaimService.cs",
               "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Services\\IClaimService.cs",
               "RelativeDocumentMoniker": "Services\\IClaimService.cs",
@@ -157,46 +262,94 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "IFoodService.cs",
-              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Services\\IFoodService.cs",
-              "RelativeDocumentMoniker": "Services\\IFoodService.cs",
-              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Services\\IFoodService.cs",
-              "RelativeToolTip": "Services\\IFoodService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 12,
+              "Title": "FoodService.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Services\\FoodService.cs",
+              "RelativeDocumentMoniker": "Services\\FoodService.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Services\\FoodService.cs",
+              "RelativeToolTip": "Services\\FoodService.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAYwBAAAAAJAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T04:57:16.184Z",
+              "WhenOpened": "2026-04-21T04:59:42.857Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
-              "Title": "Claim.cs",
-              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Models\\Claim.cs",
-              "RelativeDocumentMoniker": "Models\\Claim.cs",
-              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Models\\Claim.cs",
-              "RelativeToolTip": "Models\\Claim.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "DocumentIndex": 13,
+              "Title": "ClaimService.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Services\\ClaimService.cs",
+              "RelativeDocumentMoniker": "Services\\ClaimService.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Services\\ClaimService.cs",
+              "RelativeToolTip": "Services\\ClaimService.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAxwAYAAAAkAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T04:56:48.947Z",
+              "WhenOpened": "2026-04-21T05:00:46.202Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Models\\User.cs",
-              "RelativeDocumentMoniker": "Models\\User.cs",
-              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Models\\User.cs",
-              "RelativeToolTip": "Models\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAIAAAAAAAAAA==",
+              "DocumentIndex": 14,
+              "Title": "NotificationHub.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Hubs\\NotificationHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\NotificationHub.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Hubs\\NotificationHub.cs",
+              "RelativeToolTip": "Hubs\\NotificationHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAmAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2026-04-21T04:55:35.525Z",
+              "WhenOpened": "2026-04-21T05:20:47.921Z",
               "EditorCaption": ""
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "LoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\DTOs\\LoginDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\LoginDto.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\DTOs\\LoginDto.cs",
+              "RelativeToolTip": "DTOs\\LoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:51:18.855Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "CreateFoodDto.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\DTOs\\CreateFoodDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\CreateFoodDto.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\DTOs\\CreateFoodDto.cs",
+              "RelativeToolTip": "DTOs\\CreateFoodDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:51:17.371Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ClaimDto.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\DTOs\\ClaimDto.cs",
+              "RelativeDocumentMoniker": "DTOs\\ClaimDto.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\DTOs\\ClaimDto.cs",
+              "RelativeToolTip": "DTOs\\ClaimDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:51:15.99Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-04-21T05:18:51.564Z",
+              "EditorCaption": ""
             }
           ]
         }

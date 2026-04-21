@@ -1,4 +1,5 @@
 ﻿using FoodRescue_Backend.Models;
+using Microsoft.EntityFrameworkCore;
 
 namespace FoodRescue_Backend.Data
 {

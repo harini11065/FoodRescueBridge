@@ -1,4 +1,5 @@
-﻿using FoodRescue_Backend.Models;
+﻿using FoodRescue_Backend.DTOs;
+using FoodRescue_Backend.Models;
 
 namespace FoodRescue_Backend.Services
 {

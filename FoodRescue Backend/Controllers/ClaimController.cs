@@ -1,12 +1,17 @@
-﻿using FoodRescue_Backend.DTOs;
+﻿using FoodRescue_Backend.Data;
+using FoodRescue_Backend.DTOs;
+using FoodRescue_Backend.Hubs;
+using FoodRescue_Backend.Models;
+using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
 using Microsoft.AspNetCore.SignalR;
-using System.Security.Claims;
+using Microsoft.EntityFrameworkCore;
 
 namespace FoodRescue_Backend.Controllers
 {
     [ApiController]
     [Route("api/claim")]
+    [Authorize]
     public class ClaimController : ControllerBase
     {
         private readonly AppDbContext _context;
@@ -21,7 +26,7 @@ namespace FoodRescue_Backend.Controllers
         [HttpPost]
         public async Task<IActionResult> ClaimFood(ClaimDto dto)
         {
-            int charityId = 2; // from JWT later
+            int charityId = int.Parse(User.FindFirst("UserId").Value); // from JWT later
 
             using var transaction = await _context.Database.BeginTransactionAsync();
 
@@ -67,4 +72,5 @@ namespace FoodRescue_Backend.Controllers
 
             return Ok("Pickup completed");
         }
+    }
 }
