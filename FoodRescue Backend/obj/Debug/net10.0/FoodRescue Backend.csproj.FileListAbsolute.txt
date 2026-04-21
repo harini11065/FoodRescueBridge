@@ -1,0 +1,9 @@
+C:\Users\Logadharshini\Desktop\FoodRescue\FoodRescueBridge\FoodRescue Backend\obj\Debug\net10.0\FoodRescue Backend.csproj.AssemblyReference.cache
+C:\Users\Logadharshini\Desktop\FoodRescue\FoodRescueBridge\FoodRescue Backend\obj\Debug\net10.0\rpswa.dswa.cache.json
+C:\Users\Logadharshini\Desktop\FoodRescue\FoodRescueBridge\FoodRescue Backend\obj\Debug\net10.0\FoodRescue Backend.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Logadharshini\Desktop\FoodRescue\FoodRescueBridge\FoodRescue Backend\obj\Debug\net10.0\FoodRescue Backend.AssemblyInfoInputs.cache
+C:\Users\Logadharshini\Desktop\FoodRescue\FoodRescueBridge\FoodRescue Backend\obj\Debug\net10.0\FoodRescue Backend.AssemblyInfo.cs
+C:\Users\Logadharshini\Desktop\FoodRescue\FoodRescueBridge\FoodRescue Backend\obj\Debug\net10.0\FoodRescue Backend.csproj.CoreCompileInputs.cache
+C:\Users\Logadharshini\Desktop\FoodRescue\FoodRescueBridge\FoodRescue Backend\obj\Debug\net10.0\FoodRescue Backend.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Logadharshini\Desktop\FoodRescue\FoodRescueBridge\FoodRescue Backend\obj\Debug\net10.0\FoodRescue Backend.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Logadharshini\Desktop\FoodRescue\FoodRescueBridge\FoodRescue Backend\obj\Debug\net10.0\FoodRescue Backend.sourcelink.json

@@ -83,23 +83,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\harin\\.nuget\\packages\\": {},
+    "C:\\Users\\Logadharshini\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\harin\\Desktop\\Foodrescue\\FoodRescue Backend\\FoodRescue Backend.csproj",
+      "projectUniqueName": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\FoodRescue Backend.csproj",
       "projectName": "FoodRescue Backend",
-      "projectPath": "C:\\Users\\harin\\Desktop\\Foodrescue\\FoodRescue Backend\\FoodRescue Backend.csproj",
-      "packagesPath": "C:\\Users\\harin\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\harin\\Desktop\\Foodrescue\\FoodRescue Backend\\obj\\",
+      "projectPath": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\FoodRescue Backend.csproj",
+      "packagesPath": "C:\\Users\\Logadharshini\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\Logadharshini\\Desktop\\FoodRescue\\FoodRescueBridge\\FoodRescue Backend\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\harin\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\Logadharshini\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -108,7 +108,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -127,7 +126,7 @@
         "auditLevel": "low",
         "auditMode": "all"
       },
-      "SdkAnalysisLevel": "10.0.200"
+      "SdkAnalysisLevel": "10.0.100"
     },
     "frameworks": {
       "net10.0": {
@@ -157,7 +156,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.201/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\10.0.104/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",
