@@ -1,0 +1,63 @@
+<nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+  <div class="container-fluid">
+
+    <!-- Brand -->
+    <a class="navbar-brand" routerLink="/">FoodRescue</a>
+
+    <!-- Toggle (Mobile) -->
+    <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav">
+      <span class="navbar-toggler-icon"></span>
+    </button>
+
+    <!-- Nav Links -->
+    <div class="collapse navbar-collapse" id="navbarNav">
+
+      <div class="navbar-nav me-auto">
+
+        <!-- Restaurant Dashboard -->
+        <a 
+          *ngIf="user?.role === 'Restaurant'"
+          class="nav-link"
+          routerLink="/restaurant"
+          routerLinkActive="active">
+          Dashboard
+        </a>
+
+        <!-- Charity Dashboard -->
+        <a 
+          *ngIf="user?.role === 'Charity'"
+          class="nav-link"
+          routerLink="/charity"
+          routerLinkActive="active">
+          Dashboard
+        </a>
+
+        <!-- 🔥 My Claims (ONLY Charity) -->
+        <a 
+          *ngIf="user?.role === 'Charity'"
+          class="nav-link"
+          routerLink="/my-claims"
+          routerLinkActive="active">
+          My Claims
+        </a>
+
+      </div>
+
+      <!-- Right Side -->
+      <div class="d-flex align-items-center gap-2 text-white">
+
+        <!-- Show role -->
+        <span *ngIf="user">
+          {{ user.role }}
+        </span>
+
+        <!-- Logout -->
+        <button class="btn btn-outline-light btn-sm" (click)="logout()">
+          Logout
+        </button>
+
+      </div>
+
+    </div>
+  </div>
+</nav>

@@ -1,1 +1,60 @@
-<p>charity-dash works!</p>
+<div class="container mt-4">
+
+  <h2 class="mb-3">Available Food</h2>
+
+  <div class="d-flex flex-wrap gap-3">
+
+    <div *ngFor="let food of foods" class="card shadow-sm" style="width: 18rem;">
+
+      <div class="card-body">
+
+        <h5 class="card-title">{{ food.title }}</h5>
+
+        <p class="card-text">
+          <strong>Quantity:</strong> {{ food.quantity }} <br>
+          <strong>Expires:</strong> {{ food.expiryTime | date:'short' }}
+        </p>
+
+        <span class="badge bg-success mb-2">Active</span>
+
+        <button 
+          class="btn btn-success w-100"
+          (click)="claim(food)">
+          Claim
+        </button>
+
+      </div>
+    </div>
+
+  </div>
+
+  <hr class="my-4">
+
+  <h2 class="mb-3">My Claims</h2>
+
+  <div class="d-flex flex-wrap gap-3">
+
+    <div *ngFor="let food of myClaims" class="card shadow-sm" style="width: 18rem;">
+
+      <div class="card-body">
+
+        <h5 class="card-title">{{ food.title }}</h5>
+
+        <p class="card-text">
+          <strong>Quantity:</strong> {{ food.quantity }}
+        </p>
+
+        <span class="badge bg-warning text-dark mb-2">Claimed</span>
+
+        <button 
+          class="btn btn-warning w-100"
+          (click)="pickup(food)">
+          Mark as Picked Up
+        </button>
+
+      </div>
+    </div>
+
+  </div>
+
+</div>

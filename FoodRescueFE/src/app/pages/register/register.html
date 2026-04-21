@@ -1,1 +1,19 @@
-<p>register works!</p>
+<div class="auth-card">
+  <h2>Register</h2>
+
+  <input [(ngModel)]="name" placeholder="Name" />
+  <input [(ngModel)]="email" placeholder="Email" />
+  <input [(ngModel)]="password" type="password" placeholder="Password" />
+
+  <select [(ngModel)]="role">
+    <option value="Restaurant">Restaurant</option>
+    <option value="Charity">Charity</option>
+  </select>
+
+  <button (click)="register()">Register</button>
+
+  <p>
+    Already have an account?
+    <a routerLink="/login">Login</a>
+  </p>
+</div>
