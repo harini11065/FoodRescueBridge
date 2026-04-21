@@ -1,12 +1,52 @@
 <div class="auth-card">
   <h2>Login</h2>
 
-  <input [(ngModel)]="email" placeholder="Email" />
-  <input [(ngModel)]="password" type="password" placeholder="Password" />
+  <!-- EMAIL -->
+  <input 
+    [(ngModel)]="email"
+    name="email"
+    #emailRef="ngModel"
+    required
+    email
+    placeholder="Email"
+    class="form-control mb-1"
+  />
 
-  <button (click)="login()">Login</button>
+  <!-- Email Error -->
+  <small class="text-danger" *ngIf="emailRef.touched && emailRef.invalid">
+    <span *ngIf="emailRef.errors?.['required']">Email is required</span>
+    <span *ngIf="emailRef.errors?.['email']">Enter a valid email</span>
+  </small>
 
-  <p>
+  <!-- PASSWORD -->
+  <input 
+    [(ngModel)]="password"
+    name="password"
+    #passwordRef="ngModel"
+    required
+    minlength="4"
+    type="password"
+    placeholder="Password"
+    class="form-control mb-1"
+  />
+
+  <!-- Password Error -->
+  <small class="text-danger" *ngIf="passwordRef.touched && passwordRef.invalid">
+    <span *ngIf="passwordRef.errors?.['required']">Password is required</span>
+    <span *ngIf="passwordRef.errors?.['minlength']">
+      Minimum 4 characters required
+    </span>
+  </small>
+
+  <!-- BUTTON -->
+  <button 
+    class="btn btn-success w-100 mt-2"
+    [disabled]="emailRef.invalid || passwordRef.invalid"
+    (click)="login()">
+    Login
+  </button>
+
+  <p class="mt-3 text-center">
     Don't have an account?
     <a routerLink="/register">Register</a>
   </p>
